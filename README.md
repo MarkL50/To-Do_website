@@ -1,7 +1,7 @@
 # TO-DO App 
 ## A to-do list app lets you write, organize, and reprioritize your tasks more efficiently. They also let you attach notes, links, and files to a task, and many let you see when someone else has completed a task. In many ways, a good to-do app is the ultimate productivity app.
 
-## App URL : https://markl50.github.io/Demo/
+## App URL : https://markl50.github.io/To-Do_website/
 
 ## Tech stacks used : <img src="https://img.shields.io/badge/Frontend:-HTML & CSS-5555ff">  <img src="https://img.shields.io/badge/Backend:- Javascript-E32800">
 
